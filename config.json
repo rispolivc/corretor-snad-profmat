@@ -1,0 +1,14 @@
+{
+  "exame": "SNAD",
+  "prova": "SNAD 2027",
+  "notaMaxima": 30,
+  "rigorLeitura": "normal",
+  "dpiMinimo": 150,
+  "dpiRecomendado": 200,
+  "armazenamento": {
+    "modo": "local",
+    "api": "",
+    "token": "",
+    "credenciais": "include"
+  }
+}
